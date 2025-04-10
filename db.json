@@ -1,4 +1,107 @@
-{
+{Notes:
+[
+  {
+    "id": "1",
+    "title": "Meeting Notes",
+    "content": "Discuss project updates and next steps.",
+    "priority": 1,
+    "createdAt": "2025-04-10T08:00:00Z",
+    "modifiedAt": "2025-04-10T10:00:00Z",
+    "tags": "work,urgent",
+    "color": "#FF5733"
+  },
+  {
+    "id": "2",
+    "title": "Shopping List",
+    "content": "Buy milk, eggs, and bread.",
+    "priority": 2,
+    "createdAt": "2025-04-09T15:30:00Z",
+    "modifiedAt": "2025-04-09T16:00:00Z",
+    "tags": "personal,grocery",
+    "color": "#33FF57"
+  },
+  {
+    "id": "3",
+    "title": "Workout Routine",
+    "content": "Monday: Cardio, Wednesday: Strength.",
+    "priority": 3,
+    "createdAt": "2025-04-08T06:00:00Z",
+    "modifiedAt": "2025-04-08T07:00:00Z",
+    "tags": "fitness,health",
+    "color": "#5733FF"
+  },
+  {
+    "id": "4",
+    "title": "Vacation Plan",
+    "content": "Book tickets and hotel for summer trip.",
+    "priority": 1,
+    "createdAt": "2025-03-30T10:00:00Z",
+    "modifiedAt": "2025-04-01T09:00:00Z",
+    "tags": "travel,fun",
+    "color": "#FF33A5"
+  },
+  {
+    "id": "5",
+    "title": "Birthday Reminder",
+    "content": "Send a gift for John's birthday.",
+    "priority": 2,
+    "createdAt": "2025-04-05T12:00:00Z",
+    "modifiedAt": "2025-04-06T13:00:00Z",
+    "tags": "personal,important",
+    "color": "#33A5FF"
+  },
+  {
+    "id": "6",
+    "title": "Reading List",
+    "content": "Finish 'The Great Gatsby'.",
+    "priority": 3,
+    "createdAt": "2025-04-01T14:00:00Z",
+    "modifiedAt": "2025-04-02T15:00:00Z",
+    "tags": "leisure,books",
+    "color": "#FFA533"
+  },
+  {
+    "id": "7",
+    "title": "Work Report",
+    "content": "Complete the quarterly report.",
+    "priority": 1,
+    "createdAt": "2025-03-29T08:00:00Z",
+    "modifiedAt": "2025-03-30T09:00:00Z",
+    "tags": "work,deadline",
+    "color": "#FF3357"
+  },
+  {
+    "id": "8",
+    "title": "Grocery Shopping",
+    "content": "Buy vegetables and snacks.",
+    "priority": 3,
+    "createdAt": "2025-04-07T18:00:00Z",
+    "modifiedAt": "2025-04-07T19:00:00Z",
+    "tags": "personal,household",
+    "color": "#57FF33"
+  },
+  {
+    "id": "9",
+    "title": "Event Schedule",
+    "content": "Prepare slides for the conference.",
+    "priority": 1,
+    "createdAt": "2025-04-04T09:00:00Z",
+    "modifiedAt": "2025-04-04T11:00:00Z",
+    "tags": "work,presentation",
+    "color": "#3357FF"
+  },
+  {
+    "id": "10",
+    "title": "Gardening To-Do",
+    "content": "Plant new flowers in the backyard.",
+    "priority": 2,
+    "createdAt": "2025-04-03T07:00:00Z",
+    "modifiedAt": "2025-04-03T09:00:00Z",
+    "tags": "hobby,nature",
+    "color": "#A533FF"
+  }
+]
+  ,
   "users": [
               {
                 "id": 1,
